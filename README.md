@@ -1,0 +1,1 @@
+Web crawler to download every regulatory designation and absrtact for all actions included in the Regulatory Agenda (US). Includes a series of text classifiers to predict regulatory designations for those instances in which no designation is available.
